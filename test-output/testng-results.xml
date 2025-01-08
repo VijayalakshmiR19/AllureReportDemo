@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="2" passed="1" failed="1" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-12-19T16:11:40 EST" name="SmokeTesting" finished-at="2024-12-19T16:11:40 EST" duration-ms="256">
+  <suite started-at="2025-01-07T18:46:11 EST" name="SuiteTest" finished-at="2025-01-07T18:46:11 EST" duration-ms="360">
     <groups>
     </groups>
-    <test started-at="2024-12-19T16:11:40 EST" name="Test" finished-at="2024-12-19T16:11:40 EST" duration-ms="256">
+    <test started-at="2025-01-07T18:46:11 EST" name="Test" finished-at="2025-01-07T18:46:11 EST" duration-ms="360">
       <class name="allure_test.Testcase1">
-        <test-method signature="testmethod1()[pri:0, instance:allure_test.Testcase1@14dd7b39]" started-at="2024-12-19T16:11:40 EST" name="testmethod1" finished-at="2024-12-19T16:11:40 EST" duration-ms="78" status="FAIL">
+        <test-method signature="testmethod1()[pri:0, instance:allure_test.Testcase1@14dd7b39]" started-at="2025-01-07T18:46:11 EST" name="testmethod1" finished-at="2025-01-07T18:46:11 EST" duration-ms="120" status="FAIL">
           <exception class="java.lang.AssertionError">
             <message>
               <![CDATA[expected [true] but found [false]]]>
@@ -53,11 +53,11 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
         </test-method> <!-- testmethod1 -->
       </class> <!-- allure_test.Testcase1 -->
       <class name="allure_test.Testcase2">
-        <test-method signature="testmethod2()[pri:0, instance:allure_test.Testcase2@d2de489]" started-at="2024-12-19T16:11:40 EST" name="testmethod2" finished-at="2024-12-19T16:11:40 EST" duration-ms="7" status="PASS">
+        <test-method signature="testmethod2()[pri:0, instance:allure_test.Testcase2@d2de489]" started-at="2025-01-07T18:46:11 EST" name="testmethod2" finished-at="2025-01-07T18:46:11 EST" duration-ms="26" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testmethod2 -->
       </class> <!-- allure_test.Testcase2 -->
     </test> <!-- Test -->
-  </suite> <!-- SmokeTesting -->
+  </suite> <!-- SuiteTest -->
 </testng-results>
