@@ -2,18 +2,18 @@
 <testng-results ignored="0" total="6" passed="4" failed="2" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-01-15T11:42:06 EST" name="SuiteTest" finished-at="2025-01-15T11:42:07 EST" duration-ms="453">
+  <suite started-at="2025-01-15T11:51:06 EST" name="SuiteTest" finished-at="2025-01-15T11:51:07 EST" duration-ms="442">
     <groups>
     </groups>
-    <test started-at="2025-01-15T11:42:06 EST" name="Test" finished-at="2025-01-15T11:42:07 EST" duration-ms="453">
+    <test started-at="2025-01-15T11:51:06 EST" name="Test" finished-at="2025-01-15T11:51:07 EST" duration-ms="442">
       <class name="allure_test.Testcase6">
-        <test-method signature="testmethod6()[pri:0, instance:allure_test.Testcase6@37313c65]" started-at="2025-01-15T11:42:07 EST" name="testmethod6" finished-at="2025-01-15T11:42:07 EST" duration-ms="13" status="PASS">
+        <test-method signature="testmethod6()[pri:0, instance:allure_test.Testcase6@37313c65]" started-at="2025-01-15T11:51:07 EST" name="testmethod6" finished-at="2025-01-15T11:51:07 EST" duration-ms="9" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testmethod6 -->
       </class> <!-- allure_test.Testcase6 -->
       <class name="allure_test.Testcase1">
-        <test-method signature="testmethod1()[pri:0, instance:allure_test.Testcase1@d2de489]" started-at="2025-01-15T11:42:06 EST" name="testmethod1" finished-at="2025-01-15T11:42:07 EST" duration-ms="101" status="FAIL">
+        <test-method signature="testmethod1()[pri:0, instance:allure_test.Testcase1@d2de489]" started-at="2025-01-15T11:51:06 EST" name="testmethod1" finished-at="2025-01-15T11:51:06 EST" duration-ms="100" status="FAIL">
           <exception class="java.lang.AssertionError">
             <message>
               <![CDATA[expected [true] but found [false]]]>
@@ -59,13 +59,13 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
         </test-method> <!-- testmethod1 -->
       </class> <!-- allure_test.Testcase1 -->
       <class name="allure_test.Testcase5">
-        <test-method signature="testmethod5()[pri:0, instance:allure_test.Testcase5@1e4f4a5c]" started-at="2025-01-15T11:42:07 EST" name="testmethod5" finished-at="2025-01-15T11:42:07 EST" duration-ms="10" status="PASS">
+        <test-method signature="testmethod5()[pri:0, instance:allure_test.Testcase5@1e4f4a5c]" started-at="2025-01-15T11:51:07 EST" name="testmethod5" finished-at="2025-01-15T11:51:07 EST" duration-ms="10" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testmethod5 -->
       </class> <!-- allure_test.Testcase5 -->
       <class name="allure_test.Testcase4">
-        <test-method signature="testmethod4()[pri:0, instance:allure_test.Testcase4@508dec2b]" started-at="2025-01-15T11:42:07 EST" name="testmethod4" finished-at="2025-01-15T11:42:07 EST" duration-ms="8" status="FAIL">
+        <test-method signature="testmethod4()[pri:0, instance:allure_test.Testcase4@508dec2b]" started-at="2025-01-15T11:51:06 EST" name="testmethod4" finished-at="2025-01-15T11:51:06 EST" duration-ms="6" status="FAIL">
           <exception class="java.lang.AssertionError">
             <message>
               <![CDATA[expected [true] but found [false]]]>
@@ -111,13 +111,13 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91)
         </test-method> <!-- testmethod4 -->
       </class> <!-- allure_test.Testcase4 -->
       <class name="allure_test.Testcase3">
-        <test-method signature="testmethod3()[pri:0, instance:allure_test.Testcase3@7dc19a70]" started-at="2025-01-15T11:42:07 EST" name="testmethod3" finished-at="2025-01-15T11:42:07 EST" duration-ms="11" status="PASS">
+        <test-method signature="testmethod3()[pri:0, instance:allure_test.Testcase3@7dc19a70]" started-at="2025-01-15T11:51:06 EST" name="testmethod3" finished-at="2025-01-15T11:51:06 EST" duration-ms="13" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testmethod3 -->
       </class> <!-- allure_test.Testcase3 -->
       <class name="allure_test.Testcase2">
-        <test-method signature="testmethod2()[pri:0, instance:allure_test.Testcase2@24c1b2d2]" started-at="2025-01-15T11:42:07 EST" name="testmethod2" finished-at="2025-01-15T11:42:07 EST" duration-ms="13" status="PASS">
+        <test-method signature="testmethod2()[pri:0, instance:allure_test.Testcase2@24c1b2d2]" started-at="2025-01-15T11:51:06 EST" name="testmethod2" finished-at="2025-01-15T11:51:06 EST" duration-ms="6" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testmethod2 -->
