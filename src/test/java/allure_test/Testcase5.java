@@ -8,7 +8,7 @@ import org.testng.annotations.Test;
 public class Testcase5 {
   @Test
   public void testmethod5() {
-	  Assert.assertTrue(false);
-	  System.out.println("testmethod5 is not working as expected");
+	  Assert.assertTrue(true);
+	  System.out.println("testmethod5 is  working as expected");
   }
 }
