@@ -6,6 +6,9 @@
       <class name="allure_test.Testcase1"/>
       <class name="allure_test.Testcase2"/>
       <class name="allure_test.Testcase3"/>
+      <class name="allure_test.Testcase4"/>
+      <class name="allure_test.Testcase5"/>
+      <class name="allure_test.Testcase6"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- SuiteTest -->

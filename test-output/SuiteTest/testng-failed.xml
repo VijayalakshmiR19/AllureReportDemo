@@ -8,6 +8,11 @@
           <include name="testmethod1"/>
         </methods>
       </class> <!-- allure_test.Testcase1 -->
+      <class name="allure_test.Testcase4">
+        <methods>
+          <include name="testmethod4"/>
+        </methods>
+      </class> <!-- allure_test.Testcase4 -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [SuiteTest] -->
