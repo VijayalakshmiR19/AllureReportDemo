@@ -13,11 +13,6 @@
           <include name="testmethod4"/>
         </methods>
       </class> <!-- allure_test.Testcase4 -->
-      <class name="allure_test.Testcase5">
-        <methods>
-          <include name="testmethod5"/>
-        </methods>
-      </class> <!-- allure_test.Testcase5 -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [SuiteTest] -->
